@@ -1,6 +1,5 @@
 Danh sách thành viên
 - Bùi Quang Thịnh - MSSV: 52100584
-- Kiều Cao Minh Kiệt - MSSV: 52100811
 - Trần Hữu Quang Trường - MSSV: 52100941
 
 Phân công
@@ -8,14 +7,12 @@ Phân công
 	Thiết kế giao diện
 	Thiết kế database
 	Xây dựng chức năng đăng nhập, đặt hàng
-- Kiều Cao Minh Kiệt
-	Xây dựng chức năng quản lý sản phẩm
-	Viết báo cáo
-	Quản lý khách hàng
 - Trần Hữu Quang Trường
 	Demo Video
 	Quản lý nhân viên
 	Quản lý thống kê
+	Xây dựng chức năng quản lý sản phẩm
+	Quản lý khách hàng
 
 
 Hướng dẫn chạy demo
